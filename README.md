@@ -77,4 +77,4 @@ Autor
 - [List of Badges, in Markdown](https://github.com/Naereen/badges)
 
 # Antes de ir embora, não se esquece de dá um like!!!
-# Quer dizer, dar um Star no repositório
+# Quer dizer, dar um Star no repositório.
