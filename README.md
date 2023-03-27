@@ -39,6 +39,17 @@ com o seu conhecimento se ele ainda não existe aqui.
   - [ ] numericos
   - [ ] boolean
 
+### Padronização do repositório
+- ID do exemplo
+- Descrição
+- Código
+- Saída
+- Autor
+- Como executar
+#### Documentação
+#### Código
+
+
 ### 🎲 Rodando a aplicação
 
 ```bash
